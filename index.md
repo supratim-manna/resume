@@ -1,9 +1,4 @@
 
----
-layout: default
-title: "Supratim Manna - Portfolio"
----
-
 # Welcome to My Portfolio 🚀
 
 I am **Supratim Manna**, a Data Science student at **DIAT-DRDO**, passionate about **AI/ML, Generative Models, and Deep Learning**. My work includes **Network Intrusion Detection, Exoplanet Discovery, and Diffusion Models**.
