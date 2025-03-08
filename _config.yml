@@ -5,7 +5,7 @@ version: 2
 name: Supratim Manna
 title: Data Scientist | AI/ML Researcher
 email: supratimmannas7@gmail.com
-phone: +91 
+phone: +91 6294034588
 website: https://github.com/Supratimmannas7
 
 darkmode: false
@@ -84,6 +84,11 @@ footer_show_references: true
 sass:
   sass_dir: _sass
   style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/"]
 
 plugins:
  - jekyll-seo-tag
