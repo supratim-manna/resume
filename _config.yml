@@ -84,7 +84,7 @@ content:
       **AI Techniques:** CNN, LSTM, GANs, Transformers, Diffusion Models  
       **Mathematical Background:** Linear Algebra, Probability, Graph Theory  
 
-footer_show_references: true
+footer_show_references: false
 
 sass:
   sass_dir: _sass
