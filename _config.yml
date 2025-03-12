@@ -262,8 +262,16 @@ sass:
   sass_dir: _sass
   style: compressed
 
+# plugins:
+#  - jekyll-seo-tag
+
+# exclude : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/"]
+
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
-exclude : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/"]
-
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"
+  - "vendor/"
