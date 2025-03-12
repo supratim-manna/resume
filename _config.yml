@@ -103,8 +103,8 @@
 
 
 remote_theme: sproogen/modern-resume-theme
-# plugins:
-#   - jekyll-seo-tag
+plugins:
+  - jekyll-seo-tag
 
 repository: SupratimManna/Resume
 version: 2
@@ -167,18 +167,18 @@ content:
       - **Human-Computer Interaction (HCI)** - Understanding AI interactions with the brain
       - **Mathematical Foundations:** Probability, Optimization, Numerical Methods
 
-  - title: Publications
-    layout: list
-    content:
-      - layout: left
-        title: Isolation Forest-based Anomaly Detection of Vessels using AIS Data
-        # sub_title: 'S. Manna & Dr. B. Ramkrishna'
-        caption: ICDMAI 2025 (Accepted & Presented, Jan 2025)
+  # - title: Publications
+  #   layout: list
+  #   content:
+  #     - layout: left
+  #       title: Isolation Forest-based Anomaly Detection of Vessels using AIS Data
+  #       sub_title: 'S. Manna & Dr. B. Ramkrishna'
+  #       caption: ICDMAI 2025 (Accepted & Presented, Jan 2025)
 
-      - layout: left
-        title: Maritime Traffic Prediction using Synthetic AIS Data
-        sub_title: 'S. Manna & Dr. B. Ramkrishna'
-        caption: Submitted to IEEE Sensors (March 2025)
+  #     - layout: left
+  #       title: Maritime Traffic Prediction using Synthetic AIS Data
+  #       sub_title: 'S. Manna & Dr. B. Ramkrishna'
+  #       caption: Submitted to IEEE Sensors (March 2025)
 
   - title: Projects
     layout: list
