@@ -260,7 +260,7 @@ content:
         description: |
           I have developed an AI-Agent using DeepSeek prompt engineering to answer user queries based on a predefined Knowledge Base (KB), ensuring data privacy by preventing external data sharing. If the answer is unavailable in the KB, the agent dynamically queries an LLM prompt to generate a response. This approach enables secure model training without exposing sensitive information while optimizing knowledge retrieval efficiency.
           
-  - title: Experience
+  - title: Virtual Internship
     layout: list
     content:
       - layout: right
@@ -295,6 +295,8 @@ content:
       - **[Artificial Intelligence Fundamentals](https://www.credly.com/badges/83458eb2-e582-4930-833a-79143d668cd2/public_url)** - IBM
       - **[Python Essentials](https://www.credly.com/badges/f14290dd-3acd-4583-baf8-131af30920f2/public_url)** - Cisco
       - **[Power of Python in Data Analysis](https://drive.google.com/file/d/1sknQc5w1ZsTs0E7FUST6grOHt7s5T8NA/view?usp=sharing)** - Ramkrishna Mission Vidyamandira
+      - **[ACMAGRADE Certification](https://drive.google.com/file/d/1bRr21jgOpVMm_n_qAvnDdkp4anmOeJsb/view?usp=sharing)**
+      - **[Next2Tech Certification](https://drive.google.com/file/d/11xQqdgsKDbYOY8JqMEANb2vwOhwi6AG9/view?usp=sharing)**
 
 
   - title: Achievements
@@ -327,8 +329,8 @@ content:
   - title: Languages & Hobbies
     layout: text
     content: |
-      "Languages:" English, Hindi  
-      "Hobbies:" Badminton, Chess, Cricket  
+      Languages: English, Hindi  
+      Hobbies: Badminton, Chess, Cricket  
 
 footer_show_references: false
 
