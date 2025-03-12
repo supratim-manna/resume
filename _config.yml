@@ -164,9 +164,7 @@ content:
   - title: Research Interests
     layout: text
     content: |
-      - "Large Language Models (LLMs), GANs, Diffusion Models"
-      - Human-Computer Interaction (HCI)
-      - "Mathematical Foundations:" Probability, Optimization, Numerical Methods
+      -  My research interests lie in LLM, GANs, and Diffusion Models for generative tasks, leveraging my strong mathematical background in probability, optimization, and numerical methods. I have worked with Machine learning architectures for anomaly detection
 
   - title: Publications
     layout: list
@@ -199,7 +197,7 @@ content:
         link: https://github.com/Supratimmannas7/CyberAICup2024
         link_text: GitHub Repository
         description: |
-          Built a "Network Intrusion Detection System" (NIDS) using "LightGBM", achieving "98.71% accuracy".
+          This project encompasses innovative components developed for the CyberAICup 2024 competition, focusing on advancements in network security. The Network Intrusion Detection project employs a machine learning approach to enhance cybersecurity. By using interpolation techniques on payload data, the model is trained with LightGBM to effectively identify potential network intrusions. This innovative solution aims to improve detection accuracy (98.71%) and response times in real-time network monitoring.
 
       - layout: left
         border: weak
@@ -215,15 +213,14 @@ content:
         link: https://github.com/Supratimmannas7/Movie-Recommender-System-TMDB
         link_text: GitHub Repository
         description: |
-          Implemented a movie recommender system using "cosine similarity" and "Count Vectorization" on TMDB dataset.
-
+          This project presents a Movie Recommender System utilizing data from The Movie Database (TMDB) to provide personalized movie suggestions. By integrating datasets containing movie details and credits, we preprocess and extract relevant features such as genres, keywords, cast, and crew. Using a bag-of-words approach with Count Vectorization, we create a similarity matrix based on text data from these features. The system employs cosine similarity to recommend movies similar to a given title, enhancing user experience through tailored suggestions. The results demonstrate the effectiveness of this method in generating relevant recommendations, contributing to advancements in recommendation algorithms in the entertainment industry.
       - layout: left
         border: weak
         title: Face Mask Detection using CNN
         link: https://github.com/Supratimmannas7/Face-Mask-Detection-using-CNN
         link_text: GitHub Repository
         description: |
-          Developed a CNN-based model for real-time face mask detection to ensure public safety during pandemics.
+          This project focuses on face mask detection using Convolutional Neural Networks (CNNs), utilizing a dataset sourced from Kaggle's open-source repositories. The objective is to develop an automated system capable of accurately identifying individuals wearing face masks in real-time, a critical task in promoting public health and safety. The dataset comprises images categorized into masked and unmasked individuals, which are preprocessed and augmented to improve model robustness. The CNN model is trained to distinguish between the two classes, achieving high accuracy in detection. This project underscores the potential of deep learning techniques in addressing real-world challenges, particularly in monitoring compliance with health guidelines in public spaces.
 
       - layout: left
         border: weak
@@ -231,7 +228,7 @@ content:
         link: https://github.com/Supratimmannas7/Predict-Stock-Price-Movement
         link_text: GitHub Repository
         description: |
-          Built an NLP-based model to analyze news sentiment and predict stock price movements.
+          This project predicts stock price movement based on news headlines using Natural Language Processing (NLP), utilizing a dataset sourced from Kaggle. By analyzing the sentiment of financial news, we assess its impact on stock market behavior. The data is preprocessed and sentiment scores are calculated, which are then correlated with subsequent stock price movements. My findings demonstrate the effectiveness of NLP techniques in financial forecasting, providing valuable insights for investors.
 
       - layout: left
         border: weak
@@ -239,15 +236,14 @@ content:
         link: https://github.com/Supratimmannas7/Generate-CIFAR10-Small-Color-Photographs-using-GAN
         link_text: GitHub Repository
         description: |
-          Used Generative Adversarial Networks (GANs) to synthesize realistic small-scale color images from the CIFAR-10 dataset.
-
+          This project focuses on generating CIFAR-10 small color photographs using Generative Adversarial Networks (GANs). The CIFAR-10 dataset, comprising 60,000 32x32 color images across 10 classes, serves as the training ground for our GAN model. By leveraging the adversarial training process, my aim is to create realistic images that closely resemble the original dataset. The results showcase the GAN's ability to generate diverse and high-quality color photographs, contributing to advancements in image synthesis and demonstrating the potential of GANs in various applications, including data augmentation and creative content generation.
       - layout: left
         border: weak
         title: Image Generation using DDPM
         link: https://github.com/Supratimmannas7/Image-Generation-using-DDPM
         link_text: GitHub Repository
         description: |
-          Implemented "Denoising Diffusion Probabilistic Models" (DDPMs) to generate high-quality synthetic images.
+          This project focuses on image generation using Denoising Diffusion Probabilistic Models (DDPMs), with the code and dataset sourced from GitHub. By utilizing diffusion processes to iteratively refine noise into coherent images, we aim to capture intricate details and textures across various datasets. The model is trained on a collection of images, allowing it to learn complex distributions and produce visually appealing outputs. My findings demonstrate the effectiveness of DDPM in generating realistic images, showcasing their potential applications in areas such as art, design, and data augmentation.
 
       - layout: left
         border: weak
@@ -255,15 +251,14 @@ content:
         link: https://github.com/Supratimmannas7/Military_AirCraft_Classification
         link_text: GitHub Repository
         description: |
-          Designed a military aircraft classifier using transfer learning with "ResNet50", "VGG16", and "VGG19".
-
+          We have implemented a military aircraft classification system using pretrained deep learning models—ResNet50, VGG19, and VGG16—to compare their performance. Conducted extensive evaluations, where ResNet50 outperformed the others, delivering the best classification accuracy. This study highlights the effectiveness of transfer learning in defense applications, ensuring robust and efficient aircraft recognition.
       - layout: left
         border: weak
         title: AI-Agent using Botpress & LLM
         link: https://studio.botpress.cloud/38705770-4002-4c8e-b02e-73e4fd1a3a60/flows/wf-main
         link_text: Botpress Project
         description: |
-          Developed an AI-Agent using "DeepSeek prompt engineering" and Botpress for knowledge-based query answering.
+          I have developed an AI-Agent using DeepSeek prompt engineering to answer user queries based on a predefined Knowledge Base (KB), ensuring data privacy by preventing external data sharing. If the answer is unavailable in the KB, the agent dynamically queries an LLM prompt to generate a response. This approach enables secure model training without exposing sensitive information while optimizing knowledge retrieval efficiency.
           
   - title: Experience
     layout: list
