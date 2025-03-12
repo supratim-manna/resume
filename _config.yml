@@ -1,110 +1,7 @@
-remote_theme: sproogen/modern-resume-theme
-plugins:
-  - jekyll-seo-tag
-
-
-repository: SupratimManna/Resume
-version: 2
-
-# Personal info
-name: Supratim Manna
-title: Data Scientist | AI/ML Researcher
-email: supratimmannas7@gmail.com
-phone: +91 
-website: https://github.com/Supratimmannas7
-
-darkmode: false
-
-github_username: Supratimmannas7
-linkedin_username: supratim-manna-728315293
-kaggle_username: supratimmanna7
-youtube_username: SupratimManna
-
-about_profile_image: images/profile.png
-about_content: |
-  My research interests lie in LLM, GANs, and Diffusion Models for generative tasks, leveraging my strong mathematical background in probability, optimization, and numerical methods. I have worked with deep learning architectures for anomaly detection and Maritime Traffic Prediction. 
-
-
-content:
-  - title: Projects
-    layout: list
-    content:
-      - layout: left
-        border: weak
-        title: Exoplanet Detection using ML
-        link: https://github.com/Supratimmannas7/Exoplanet-Detection
-        link_text: GitHub Repository
-        additional_links:
-          - title: GitHub
-            icon: fab fa-github
-            url: https://github.com/Supratimmannas7/Exoplanet-Detection
-        quote: "Using k-NN for identifying exoplanets from light intensity data."
-        description: |
-          Developed an ML-based approach to detect exoplanets using **k-NN** on light curves, enhancing classification accuracy in astronomical research.
-      
-      - layout: left
-        border: weak
-        title: CyberAICup 2024 - Network IDS
-        link: https://github.com/Supratimmannas7/CyberAICup2024
-        link_text: GitHub Repository
-        additional_links:
-          - title: GitHub
-            icon: fab fa-github
-            url: https://github.com/Supratimmannas7/CyberAICup2024
-        quote: "AI-driven Intrusion Detection using LightGBM."
-        description: |
-          Built a **Network Intrusion Detection System** (NIDS) using **LightGBM**, enhancing security with real-time monitoring.
-  
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Innovate Intern - AI/ML
-        sub_title: AICTE Virtual Internship
-        caption: July 2024 - November 2024
-        quote: "Exploring AI applications through real-world projects."
-        description: |
-          Worked on **Deep Learning and NLP** projects, gaining hands-on experience in **Transformer models, GANs, and AI ethics**.
-  
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Defence Institute of Advanced Technology (DIAT-DRDO)
-        sub_title: M.Sc. Data Science (Applied Mathematics)
-        caption: 2023 - 2025
-        description: |
-          Focused on **Machine Learning, Deep Learning, and Generative AI**, with research on **AIS anomaly detection**.
-  
-  - title: Skills
-    layout: text
-    content: |
-      **Programming:** Python, SQL, R  
-      **ML/DL Frameworks:** TensorFlow, PyTorch, Scikit-learn  
-      **Data Science:** Pandas, NumPy, Seaborn, Matplotlib  
-      **AI Techniques:** CNN, LSTM, GANs, Transformers, Diffusion Models  
-      **Mathematical Background:** Linear Algebra, Probability, Graph Theory  
-
-footer_show_references: false
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-plugins:
- - jekyll-seo-tag
-
-exclude : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/"]
-
-plugins:
- - jekyll-seo-tag
-
-exclude : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/"]
-
-
 # remote_theme: sproogen/modern-resume-theme
 # plugins:
 #   - jekyll-seo-tag
+
 
 # repository: SupratimManna/Resume
 # version: 2
@@ -113,7 +10,7 @@ exclude : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/"]
 # name: Supratim Manna
 # title: Data Scientist | AI/ML Researcher
 # email: supratimmannas7@gmail.com
-# phone: +91 6294034588
+# phone: +91 
 # website: https://github.com/Supratimmannas7
 
 # darkmode: false
@@ -125,61 +22,10 @@ exclude : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/"]
 
 # about_profile_image: images/profile.png
 # about_content: |
-#   My research interests lie in LLM, GANs, and Diffusion Models for generative tasks, leveraging my strong mathematical background in probability, optimization, and numerical methods. I have worked with deep learning architectures for anomaly detection and Maritime Traffic Prediction. Additionally, deeply interested in Human-Computer Interaction, particularly in exploring how the brain processes information and interacts with AI, open to discussions and collaborations in this field.
+#   My research interests lie in LLM, GANs, and Diffusion Models for generative tasks, leveraging my strong mathematical background in probability, optimization, and numerical methods. I have worked with deep learning architectures for anomaly detection and Maritime Traffic Prediction. 
+
 
 # content:
-#   - title: Education
-#     layout: list
-#     content:
-#       - layout: top-right
-#         title: Defence Institute of Advanced Technology (DIAT-DRDO)
-#         sub_title: M.Sc. Data Science (Applied Mathematics)
-#         caption: 2023 - 2025
-#         description: |
-#           Focused on "Machine Learning, Deep Learning, and Generative AI", with research on "AIS anomaly detection".
-
-#       - layout: top-right
-#         title: Midnapore College (Autonomous)
-#         sub_title: B.Sc. Mathematics (Hons.)
-#         caption: 2020 - 2023
-#         description: |
-#           Specialized in "Probability, Optimization, and Numerical Methods", developing a strong foundation in "Applied Mathematics".
-
-#       - layout: top-right
-#         title: WBCHSE, West Bengal
-#         sub_title: Higher Secondary
-#         caption: 2020
-#         description: |
-#           Scored "94.40%", excelling in "Mathematics and Science".
-
-#       - layout: top-right
-#         title: WBBSE, West Bengal
-#         sub_title: Secondary Education
-#         caption: 2018
-#         description: |
-#           Scored "86.14%", with strong foundations in "Mathematics and Analytical Thinking".
-
-#   - title: Research Interests
-#     layout: text
-#     content: |
-#       - "Large Language Models (LLMs), GANs, Diffusion Models"
-#       - "Deep Learning for Anomaly Detection and Maritime Traffic Prediction"
-#       - "Human-Computer Interaction (HCI)" - Understanding AI interactions with the brain
-#       - "Mathematical Foundations:" Probability, Optimization, Numerical Methods
-
-#   - title: Publications
-#     layout: list
-#     content:
-#       - layout: left
-#         title: Isolation Forest-based Anomaly Detection of Vessels using AIS Data
-#         sub_title: "S. Manna & Dr. B. Ramkrishna"
-#         caption: ICDMAI 2025 (Accepted & Presented, Jan 2025)
-
-#       - layout: left
-#         title: Maritime Traffic Prediction using Synthetic AIS Data
-#         sub_title: "S. Manna & Dr. B. Ramkrishna"
-#         caption: Submitted to IEEE Sensors (March 2025)
-
 #   - title: Projects
 #     layout: list
 #     content:
@@ -188,25 +34,27 @@ exclude : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/"]
 #         title: Exoplanet Detection using ML
 #         link: https://github.com/Supratimmannas7/Exoplanet-Detection
 #         link_text: GitHub Repository
+#         additional_links:
+#           - title: GitHub
+#             icon: fab fa-github
+#             url: https://github.com/Supratimmannas7/Exoplanet-Detection
+#         quote: "Using k-NN for identifying exoplanets from light intensity data."
 #         description: |
-#           Developed an ML-based approach to detect exoplanets using "k-NN" on light curves, enhancing classification accuracy in astronomical research.
+#           Developed an ML-based approach to detect exoplanets using **k-NN** on light curves, enhancing classification accuracy in astronomical research.
       
 #       - layout: left
 #         border: weak
 #         title: CyberAICup 2024 - Network IDS
 #         link: https://github.com/Supratimmannas7/CyberAICup2024
 #         link_text: GitHub Repository
+#         additional_links:
+#           - title: GitHub
+#             icon: fab fa-github
+#             url: https://github.com/Supratimmannas7/CyberAICup2024
+#         quote: "AI-driven Intrusion Detection using LightGBM."
 #         description: |
-#           Built a "Network Intrusion Detection System" (NIDS) using "LightGBM", achieving "98.71% accuracy".
-
-#       - layout: left
-#         border: weak
-#         title: Maritime Traffic Prediction using Synthetic AIS Data
-#         link: https://github.com/Supratimmannas7/Maritime-Traffic-Prediction
-#         link_text: GitHub Repository
-#         description: |
-#           Developed a predictive model for "maritime traffic" using synthetic AIS data, improving real-time forecasting accuracy.
-
+#           Built a **Network Intrusion Detection System** (NIDS) using **LightGBM**, enhancing security with real-time monitoring.
+  
 #   - title: Experience
 #     layout: list
 #     content:
@@ -214,56 +62,210 @@ exclude : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/"]
 #         title: Innovate Intern - AI/ML
 #         sub_title: AICTE Virtual Internship
 #         caption: July 2024 - November 2024
+#         quote: "Exploring AI applications through real-world projects."
 #         description: |
-#           Worked on "Deep Learning and NLP" projects, gaining hands-on experience in "Transformer models, GANs, and AI ethics".
-
+#           Worked on **Deep Learning and NLP** projects, gaining hands-on experience in **Transformer models, GANs, and AI ethics**.
+  
+#   - title: Education
+#     layout: list
+#     content:
+#       - layout: top-right
+#         title: Defence Institute of Advanced Technology (DIAT-DRDO)
+#         sub_title: M.Sc. Data Science (Applied Mathematics)
+#         caption: 2023 - 2025
+#         description: |
+#           Focused on **Machine Learning, Deep Learning, and Generative AI**, with research on **AIS anomaly detection**.
+  
 #   - title: Skills
 #     layout: text
 #     content: |
-#       "Programming:" Python, SQL, R  
-#       "ML/DL Frameworks:" TensorFlow, PyTorch, Scikit-learn  
-#       "Data Science:" Pandas, NumPy, Seaborn, Matplotlib  
-#       "AI Techniques:" CNN, LSTM, GANs, Transformers, Diffusion Models  
-#       "Mathematical Background:" Linear Algebra, Probability, Graph Theory  
-
-#   - title: Achievements
-#     layout: list
-#     content:
-#       - layout: left
-#         title: GATE-Data Science & AI Qualified
-#         caption: 2024
-#       - layout: left
-#         title: IIT-JAM Mathematics Qualified
-#         caption: 2023
-#       - layout: left
-#         title: IISER Kolkata & IISER TVM M.Sc. Mathematics Entrance Qualified
-#       - layout: left
-#         title: Post Matric National Scholarship
-#         caption: 2020
-
-#   - title: Volunteering & Leadership Roles
-#     layout: list
-#     content:
-#       - layout: left
-#         title: Volunteer, IEEE ICCST 2023
-#       - layout: left
-#         title: Volunteer, National Service Scheme (NSS) [2023-2025]
-#       - layout: left
-#         title: Student Cultural Coordinator, SPANDAN’24 & SPANDAN’25
-#       - layout: left
-#         title: Organizer, PUNECON - IEEE Pune Section International Conference 2024
-
-#   - title: Languages & Hobbies
-#     layout: text
-#     content: |
-#       "Languages:" English, Hindi  
-#       "Hobbies:" Badminton, Chess, Cricket  
+#       **Programming:** Python, SQL, R  
+#       **ML/DL Frameworks:** TensorFlow, PyTorch, Scikit-learn  
+#       **Data Science:** Pandas, NumPy, Seaborn, Matplotlib  
+#       **AI Techniques:** CNN, LSTM, GANs, Transformers, Diffusion Models  
+#       **Mathematical Background:** Linear Algebra, Probability, Graph Theory  
 
 # footer_show_references: false
 
 # sass:
 #   sass_dir: _sass
 #   style: compressed
+
+# plugins:
+#  - jekyll-seo-tag
+
+# exclude : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/"]
+
+# plugins:
+#  - jekyll-seo-tag
+
+# exclude : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/"]
+
+
+
+
+remote_theme: sproogen/modern-resume-theme
+plugins:
+  - jekyll-seo-tag
+
+repository: SupratimManna/Resume
+version: 2
+
+# Personal info
+name: Supratim Manna
+title: Data Scientist | AI/ML Researcher
+email: supratimmannas7@gmail.com
+phone: +91 6294034588
+website: https://github.com/Supratimmannas7
+
+darkmode: false
+
+github_username: Supratimmannas7
+linkedin_username: supratim-manna-728315293
+kaggle_username: supratimmanna7
+youtube_username: SupratimManna
+
+about_profile_image: images/profile.png
+about_content: |
+  My research interests lie in LLM, GANs, and Diffusion Models for generative tasks, leveraging my strong mathematical background in probability, optimization, and numerical methods. I have worked with deep learning architectures for anomaly detection and Maritime Traffic Prediction. Additionally, deeply interested in Human-Computer Interaction, particularly in exploring how the brain processes information and interacts with AI, open to discussions and collaborations in this field.
+
+content:
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Defence Institute of Advanced Technology (DIAT-DRDO)
+        sub_title: M.Sc. Data Science (Applied Mathematics)
+        caption: 2023 - 2025
+        description: |
+          Focused on "Machine Learning, Deep Learning, and Generative AI", with research on "AIS anomaly detection".
+
+      - layout: top-right
+        title: Midnapore College (Autonomous)
+        sub_title: B.Sc. Mathematics (Hons.)
+        caption: 2020 - 2023
+        description: |
+          Specialized in "Probability, Optimization, and Numerical Methods", developing a strong foundation in "Applied Mathematics".
+
+      - layout: top-right
+        title: WBCHSE, West Bengal
+        sub_title: Higher Secondary
+        caption: 2020
+        description: |
+          Scored "94.40%", excelling in "Mathematics and Science".
+
+      - layout: top-right
+        title: WBBSE, West Bengal
+        sub_title: Secondary Education
+        caption: 2018
+        description: |
+          Scored "86.14%", with strong foundations in "Mathematics and Analytical Thinking".
+
+  - title: Research Interests
+    layout: text
+    content: |
+      - "Large Language Models (LLMs), GANs, Diffusion Models"
+      # - "Deep Learning for Anomaly Detection and Maritime Traffic Prediction"
+      # - "Human-Computer Interaction (HCI)" - Understanding AI interactions with the brain
+      - "Mathematical Foundations:" Probability, Optimization, Numerical Methods
+
+  - title: Publications
+    layout: list
+    content:
+      - layout: left
+        title: Isolation Forest-based Anomaly Detection of Vessels using AIS Data
+        sub_title: "S. Manna & Dr. B. Ramkrishna"
+        caption: ICDMAI 2025 (Accepted & Presented, Jan 2025)
+
+      # - layout: left
+      #   title: Maritime Traffic Prediction using Synthetic AIS Data
+      #   sub_title: "S. Manna & Dr. B. Ramkrishna"
+      #   caption: Submitted to IEEE Sensors (March 2025)
+
+  - title: Projects
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: Exoplanet Detection using ML
+        link: https://github.com/Supratimmannas7/Exoplanet-Detection
+        link_text: GitHub Repository
+        description: |
+          Developed an ML-based approach to detect exoplanets using "k-NN" on light curves, enhancing classification accuracy in astronomical research.
+      
+      - layout: left
+        border: weak
+        title: CyberAICup 2024 - Network IDS
+        link: https://github.com/Supratimmannas7/CyberAICup2024
+        link_text: GitHub Repository
+        description: |
+          Built a "Network Intrusion Detection System" (NIDS) using "LightGBM", achieving "98.71% accuracy".
+
+      - layout: left
+        border: weak
+        title: Maritime Traffic Prediction using Synthetic AIS Data
+        link: https://github.com/Supratimmannas7/Maritime-Traffic-Prediction
+        link_text: GitHub Repository
+        description: |
+          Developed a predictive model for "maritime traffic" using synthetic AIS data, improving real-time forecasting accuracy.
+
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: Innovate Intern - AI/ML
+        sub_title: AICTE Virtual Internship
+        caption: July 2024 - November 2024
+        description: |
+          Worked on "Deep Learning and NLP" projects, gaining hands-on experience in "Transformer models, GANs, and AI ethics".
+
+  - title: Skills
+    layout: text
+    content: |
+      "Programming:" Python, SQL, R  
+      "ML/DL Frameworks:" TensorFlow, PyTorch, Scikit-learn  
+      "Data Science:" Pandas, NumPy, Seaborn, Matplotlib  
+      "AI Techniques:" CNN, LSTM, GANs, Transformers, Diffusion Models  
+      "Mathematical Background:" Linear Algebra, Probability, Graph Theory  
+
+  - title: Achievements
+    layout: list
+    content:
+      - layout: left
+        title: GATE-Data Science & AI Qualified
+        caption: 2024
+      - layout: left
+        title: IIT-JAM Mathematics Qualified
+        caption: 2023
+      - layout: left
+        title: IISER Kolkata & IISER TVM M.Sc. Mathematics Entrance Qualified
+      - layout: left
+        title: Post Matric National Scholarship
+        caption: 2020
+
+  - title: Volunteering & Leadership Roles
+    layout: list
+    content:
+      - layout: left
+        title: Volunteer, IEEE ICCST 2023
+      - layout: left
+        title: Volunteer, National Service Scheme (NSS) [2023-2025]
+      - layout: left
+        title: Student Cultural Coordinator, SPANDAN’24 & SPANDAN’25
+      - layout: left
+        title: Organizer, PUNECON - IEEE Pune Section International Conference 2024
+
+  - title: Languages & Hobbies
+    layout: text
+    content: |
+      "Languages:" English, Hindi  
+      "Hobbies:" Badminton, Chess, Cricket  
+
+footer_show_references: false
+
+sass:
+  sass_dir: _sass
+  style: compressed
 
 plugins:
  - jekyll-seo-tag
