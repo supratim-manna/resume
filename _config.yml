@@ -191,7 +191,7 @@ content:
         link: https://github.com/Supratimmannas7/Exoplanet-Detection
         link_text: GitHub Repository
         description: |
-          Developed an ML-based approach to detect exoplanets using "k-NN" on light curves, enhancing classification accuracy in astronomical research.
+          This project investigates the detection of exoplanets using machine learning, specifically employing the K-Nearest Neighbors (k-NN) algorithm to analyze light intensity data. Utilizing a dataset downloaded from Kaggle, which includes light curves of various celestial bodies, we focus on identifying patterns indicative of exoplanets. The k-NN model is trained on labeled data to distinguish between exoplanets and non-exoplanetary candidates based on fluctuations in light intensity. Our findings demonstrate that k-NN can effectively enhance classification accuracy, providing a promising avenue for future research in exoplanet detection and contributing to our understanding of planetary systems beyond our solar system.
       
       - layout: left
         border: weak
@@ -207,8 +207,7 @@ content:
         link: https://github.com/Supratimmannas7/yolov8-object-tracking
         link_text: GitHub Repository
         description: |
-          This project focuses on 3D object detection for autonomous vehicles, leveraging a pre-trained model sourced from GitHub.
-The objective is to enhance the safety and reliability of autonomous driving systems by accurately detecting and classifying objects in real-time. We utilized camera-recorded video for testing, allowing the model to analyze its surroundings and produce rectangular 2D bounding boxes around detected objects. Through comprehensive evaluation, we assess the model's performance in terms of detection accuracy and processing speed. The results demonstrate the model's effectiveness in real-world scenarios, contributing to advancements in object recognition systems and improving the overall functionality of autonomous vehicles.
+          This project focuses on 3D object detection for autonomous vehicles, leveraging a pre-trained model sourced from GitHub.The objective is to enhance the safety and reliability of autonomous driving systems by accurately detecting and classifying objects in real-time. We utilized camera-recorded video for testing, allowing the model to analyze its surroundings and produce rectangular 2D bounding boxes around detected objects. Through comprehensive evaluation, we assess the model's performance in terms of detection accuracy and processing speed. The results demonstrate the model's effectiveness in real-world scenarios, contributing to advancements in object recognition systems and improving the overall functionality of autonomous vehicles.
 
       - layout: left
         border: weak
