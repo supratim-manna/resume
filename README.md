@@ -2,8 +2,8 @@
 
 ## M.Sc. Data Science (Applied Mathematics)  
 _Defence Institute of Advanced Technology, Pune_  
-_Email:_ [mannasupratim7@gmail.com](mailto:mannasupratim7@gmail.com)  
-_Mobile:_ +91 6294034588  
+_Email:_ [supratimmannas7@gmail.com](mailto:supratimmannas7@gmail.com)  
+_Mobile:_ +91  
 [GitHub](https://github.com/Supratimmannas7) | [LinkedIn](http://www.linkedin.com/in/supratim-manna-728315293) | [LeetCode](https://leetcode.com/u/SupratimManna/) | [HuggingFace](https://huggingface.co/supratimmannas7)  
 
 ---
