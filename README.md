@@ -1,6 +1,4 @@
-# modern-resume-theme
- 
-# Supratim Manna
+ # Supratim Manna
 
 ## M.Sc. Data Science (Applied Mathematics)  
 _Defence Institute of Advanced Technology, Pune_  
