@@ -99,6 +99,9 @@
 #  - jekyll-seo-tag
 
 # exclude : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/"]
+
+
+
 remote_theme: sproogen/modern-resume-theme
 plugins:
   - jekyll-seo-tag
@@ -110,7 +113,7 @@ version: 2
 name: Supratim Manna
 title: Data Scientist | AI/ML Researcher
 email: supratimmannas7@gmail.com
-phone: +91
+phone: +91 6294034588
 website: https://github.com/Supratimmannas7
 
 darkmode: false
@@ -172,10 +175,10 @@ content:
         sub_title: **S. Manna & Dr. B. Ramkrishna**
         caption: ICDMAI 2025 (Accepted & Presented, Jan 2025)
 
-      # - layout: left
-      #   title: Maritime Traffic Prediction using Synthetic AIS Data
-      #   sub_title: **S. Manna & Dr. B. Ramkrishna**
-      #   caption: Submitted to IEEE Sensors (March 2025)
+      - layout: left
+        title: Maritime Traffic Prediction using Synthetic AIS Data
+        sub_title: **S. Manna & Dr. B. Ramkrishna**
+        caption: Submitted to IEEE Sensors (March 2025)
 
   - title: Projects
     layout: list
@@ -262,16 +265,12 @@ sass:
   sass_dir: _sass
   style: compressed
 
-# plugins:
-#  - jekyll-seo-tag
+plugins:
+ - jekyll-seo-tag
 
-# exclude : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/"]
+exclude : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/"]
 
 plugins:
-  - jekyll-seo-tag
+ - jekyll-seo-tag
 
-exclude:
-  - "Gemfile"
-  - "Gemfile.lock"
-  - "node_modules"
-  - "vendor/"
+exclude : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/"]
