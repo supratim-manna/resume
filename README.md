@@ -32,8 +32,6 @@ _Mobile:_ +91 6294034588
 
 1. **S. Manna & Dr. B. Ramkrishna** - *Isolation Forest-based Anomaly Detection of Vessels using AIS Data*  
    - **Conference:** ICDMAI 2025 *(Accepted & Presented, Jan 2025)*
-2. **S. Manna & Dr. B. Ramkrishna** - *Maritime Traffic Prediction using Synthetic AIS Data*  
-   - **Journal:** IEEE Sensors *(Submitted, March 2025)*
 
 ---
 
