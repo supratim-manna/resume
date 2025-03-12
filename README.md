@@ -22,8 +22,6 @@ _Mobile:_ +91
 ## 🔬 Research Interests
 
 - Large Language Models (LLMs), GANs, Diffusion Models
-- Deep Learning for **Anomaly Detection** and **Maritime Traffic Prediction**
-- **Human-Computer Interaction (HCI)** - Exploring how the brain interacts with AI
 - Mathematical foundations: **Probability, Optimization, Numerical Methods**
 
 ---
