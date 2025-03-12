@@ -165,8 +165,7 @@ content:
     layout: text
     content: |
       - "Large Language Models (LLMs), GANs, Diffusion Models"
-      # - "Deep Learning for Anomaly Detection and Maritime Traffic Prediction"
-      # - "Human-Computer Interaction (HCI)" - Understanding AI interactions with the brain
+      - "Human-Computer Interaction (HCI)" - Understanding AI interactions with the brain
       - "Mathematical Foundations:" Probability, Optimization, Numerical Methods
 
   - title: Publications
