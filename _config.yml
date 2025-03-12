@@ -103,8 +103,8 @@
 
 
 remote_theme: sproogen/modern-resume-theme
-plugins:
-  - jekyll-seo-tag
+# plugins:
+#   - jekyll-seo-tag
 
 repository: SupratimManna/Resume
 version: 2
