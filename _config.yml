@@ -138,28 +138,28 @@ content:
         sub_title: M.Sc. Data Science (Applied Mathematics)
         caption: 2023 - 2025
         description: |
-          Focused on "Machine Learning, Deep Learning, and Generative AI", with research on "AIS anomaly detection".
+          
 
       - layout: top-right
         title: Midnapore College (Autonomous)
         sub_title: B.Sc. Mathematics (Hons.)
         caption: 2020 - 2023
         description: |
-          Specialized in "Probability, Optimization, and Numerical Methods", developing a strong foundation in "Applied Mathematics".
+          
 
       - layout: top-right
         title: WBCHSE, West Bengal
         sub_title: Higher Secondary
         caption: 2020
         description: |
-          Scored "94.40%", excelling in "Mathematics and Science".
+          
 
       - layout: top-right
         title: WBBSE, West Bengal
         sub_title: Secondary Education
         caption: 2018
         description: |
-          Scored "86.14%", with strong foundations in "Mathematics and Analytical Thinking".
+          
 
   - title: Research Interests
     layout: text
@@ -184,6 +184,7 @@ content:
   - title: Projects
     layout: list
     content:
+
       - layout: left
         border: weak
         title: Exoplanet Detection using ML
@@ -208,6 +209,62 @@ content:
         description: |
           Developed a predictive model for "maritime traffic" using synthetic AIS data, improving real-time forecasting accuracy.
 
+      - layout: left
+        border: weak
+        title: Movie Recommender System TMDB
+        link: https://github.com/Supratimmannas7/Movie-Recommender-System-TMDB
+        link_text: GitHub Repository
+        description: |
+          Implemented a movie recommender system using "cosine similarity" and "Count Vectorization" on TMDB dataset.
+
+      - layout: left
+        border: weak
+        title: Face Mask Detection using CNN
+        link: https://github.com/Supratimmannas7/Face-Mask-Detection-using-CNN
+        link_text: GitHub Repository
+        description: |
+          Developed a CNN-based model for real-time face mask detection to ensure public safety during pandemics.
+
+      - layout: left
+        border: weak
+        title: Predict Stock Price Movement Using NLP
+        link: https://github.com/Supratimmannas7/Predict-Stock-Price-Movement
+        link_text: GitHub Repository
+        description: |
+          Built an NLP-based model to analyze news sentiment and predict stock price movements.
+
+      - layout: left
+        border: weak
+        title: Generate CIFAR-10 Small Color Photographs using GAN
+        link: https://github.com/Supratimmannas7/Generate-CIFAR10-Small-Color-Photographs-using-GAN
+        link_text: GitHub Repository
+        description: |
+          Used Generative Adversarial Networks (GANs) to synthesize realistic small-scale color images from the CIFAR-10 dataset.
+
+      - layout: left
+        border: weak
+        title: Image Generation using DDPM
+        link: https://github.com/Supratimmannas7/Image-Generation-using-DDPM
+        link_text: GitHub Repository
+        description: |
+          Implemented "Denoising Diffusion Probabilistic Models" (DDPMs) to generate high-quality synthetic images.
+
+      - layout: left
+        border: weak
+        title: Military Aircraft Classification
+        link: https://github.com/Supratimmannas7/Military_AirCraft_Classification
+        link_text: GitHub Repository
+        description: |
+          Designed a military aircraft classifier using transfer learning with "ResNet50", "VGG16", and "VGG19".
+
+      - layout: left
+        border: weak
+        title: AI-Agent using Botpress & LLM
+        link: https://studio.botpress.cloud/38705770-4002-4c8e-b02e-73e4fd1a3a60/flows/wf-main
+        link_text: Botpress Project
+        description: |
+          Developed an AI-Agent using "DeepSeek prompt engineering" and Botpress for knowledge-based query answering.
+          
   - title: Experience
     layout: list
     content:
