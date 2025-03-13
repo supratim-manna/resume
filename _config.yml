@@ -165,7 +165,7 @@ content:
   - title: Research Interests
     layout: text
     content: |
-      -  My research interests lie in LLM, GANs, and Diffusion Models for generative tasks, leveraging my strong mathematical background in probability, optimization, and numerical methods. I have worked with Machine learning architectures for anomaly detection
+        My research interests lie in LLM, GANs, and Diffusion Models for generative tasks, leveraging my strong mathematical background in probability, optimization, and numerical methods. I have worked with Machine learning architectures for anomaly detection
 
   - title: Publications
     layout: list
@@ -275,18 +275,14 @@ content:
     layout: text
     content: |
       ## Technical Skills
-      - **Programming Languages:** Python, R, SQL
-      - **Machine Learning Frameworks:** TensorFlow, PyTorch, Scikit-learn
-      - **Deep Learning Techniques:** CNN, RNN, LSTM, GANs, Transformers, Diffusion Models
-      - **Mathematical Expertise:** Probability, Linear Algebra, Optimization, Numerical Methods
-      - **Data Science Tools:** Pandas, NumPy, Seaborn, Matplotlib
+      - **Programming Languages:** Python, R, SQL.
+      - **Libraries:** Scikit-learn, TensorFlow, Pytorch.
+      - **Technical Skills:** ANN, CNN, RNN, LSTM, GRU, Transformer, Attention Mechanism, Encoder-Decoder, GAN, DDPM.
+      - **Mathematical Expertise:** Operation Research and  Optimization Techniques, Linear Algebra, Calculus, Discrete Mathematics, Graph Theory,  Number Theory, Numerical  Analysis, Probability & Statistics,  Mathematical Cryptography. 
+      - **AI Skills:** Machine Learning, Deep Learning, LLM, Data structures & Algorithms, DBMS, Time Series Analysis. 
+      - **Data Science Tools:** Pandas, NumPy, Seaborn, Matplotlib, VS-Code, R-Studio, Google-Colab, ChatGPT, Kaggle, Hugging-Face, Git, Github, Cursor, WixStudio, Pycharm, Ollama, LM-Studio.
 
-      ## Soft Skills
-      - Problem-Solving
-      - Analytical Thinking
-      - Communication
-      - Time Management
-      - Team Collaboration
+      ## Soft Skills: Problem-solving, Good Communicator, Analytical Thinking, Time Management, Adaptability, Creativity, Team Collaboration.
 
 
   - title: Certifications
