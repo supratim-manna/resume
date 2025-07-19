@@ -187,7 +187,7 @@ content:
 
       - layout: left
         border: weak
-        title: Exoplanet Detection using ML
+        title: 1. Exoplanet Detection using ML
         link: https://github.com/Supratimmannas7/Exoplanet-Detection
         link_text: GitHub Repository
         description: |
@@ -195,7 +195,7 @@ content:
       
       - layout: left
         border: weak
-        title: CyberAICup 2024 - Network IDS
+        title: 2. CyberAICup 2024 - Network IDS
         link: https://github.com/Supratimmannas7/CyberAICup2024
         link_text: GitHub Repository
         description: |
@@ -203,7 +203,7 @@ content:
 
       - layout: left
         border: weak
-        title: 3D Object Detection for Autonomous Vehicles
+        title: 3. 3D Object Detection for Autonomous Vehicles
         link: https://github.com/Supratimmannas7/yolov8-object-tracking
         link_text: GitHub Repository
         description: |
@@ -211,7 +211,7 @@ content:
 
       - layout: left
         border: weak
-        title: Movie Recommender System TMDB
+        title: 4. Movie Recommender System TMDB
         link: https://github.com/Supratimmannas7/Movie-Recommender-System-TMDB
         link_text: GitHub Repository
         description: |
@@ -219,7 +219,7 @@ content:
       
       - layout: left
         border: weak
-        title: Face Mask Detection using CNN
+        title: 5. Face Mask Detection using CNN
         link: https://github.com/Supratimmannas7/Face-Mask-Detection-using-CNN
         link_text: GitHub Repository
         description: |
@@ -227,7 +227,7 @@ content:
 
       - layout: left
         border: weak
-        title: Predict Stock Price Movement Using NLP
+        title: 6. Predict Stock Price Movement Using NLP
         link: https://github.com/Supratimmannas7/Predict-Stock-Price-Movement
         link_text: GitHub Repository
         description: |
@@ -235,7 +235,7 @@ content:
 
       - layout: left
         border: weak
-        title: Generate CIFAR-10 Small Color Photographs using GAN
+        title: 7. Generate CIFAR-10 Small Color Photographs using GAN
         link: https://github.com/Supratimmannas7/Generate-CIFAR10-Small-Color-Photographs-using-GAN
         link_text: GitHub Repository
         description: |
@@ -243,7 +243,7 @@ content:
       
       - layout: left
         border: weak
-        title: Image Generation using DDPM
+        title: 8. Image Generation using DDPM
         link: https://github.com/Supratimmannas7/Image-Generation-using-DDPM
         link_text: GitHub Repository
         description: |
@@ -251,7 +251,7 @@ content:
 
       - layout: left
         border: weak
-        title: Military Aircraft Classification
+        title: 9. Military Aircraft Classification
         link: https://github.com/Supratimmannas7/Military_AirCraft_Classification
         link_text: GitHub Repository
         description: |
@@ -259,7 +259,7 @@ content:
       
       - layout: left
         border: weak
-        title: AI-Agent using Botpress & LLM
+        title: 10. AI-Agent using Botpress & LLM
         link: https://studio.botpress.cloud/38705770-4002-4c8e-b02e-73e4fd1a3a60/flows/wf-main
         link_text: Botpress Project
         description: |
@@ -269,7 +269,7 @@ content:
     layout: list
     content:
       - layout: right
-        title: Innovate Intern - AI/ML
+        title: 1. Innovate Intern - AI/ML
         sub_title: AICTE Virtual Internship
         caption: July 2024 - November 2024
 
@@ -292,28 +292,28 @@ content:
     layout: text
     content: |
       ## Certifications
-      - **[Artificial Intelligence Fundamentals](https://www.credly.com/badges/83458eb2-e582-4930-833a-79143d668cd2/public_url)** - IBM
-      - **[Python Essentials](https://www.credly.com/badges/f14290dd-3acd-4583-baf8-131af30920f2/public_url)** - Cisco
-      - **[Power of Python in Data Analysis](https://drive.google.com/file/d/1sknQc5w1ZsTs0E7FUST6grOHt7s5T8NA/view?usp=sharing)** - Ramkrishna Mission Vidyamandira
-      - **[ACMAGRADE Certification](https://drive.google.com/file/d/1bRr21jgOpVMm_n_qAvnDdkp4anmOeJsb/view?usp=sharing)**
-      - **[Next2Tech Certification](https://drive.google.com/file/d/11xQqdgsKDbYOY8JqMEANb2vwOhwi6AG9/view?usp=sharing)**
+      - **[1. Artificial Intelligence Fundamentals](https://www.credly.com/badges/83458eb2-e582-4930-833a-79143d668cd2/public_url)** - IBM
+      - **[2. Python Essentials](https://www.credly.com/badges/f14290dd-3acd-4583-baf8-131af30920f2/public_url)** - Cisco
+      - **[3. Power of Python in Data Analysis](https://drive.google.com/file/d/1sknQc5w1ZsTs0E7FUST6grOHt7s5T8NA/view?usp=sharing)** - Ramkrishna Mission Vidyamandira
+      - **[4. ACMAGRADE Certification](https://drive.google.com/file/d/1bRr21jgOpVMm_n_qAvnDdkp4anmOeJsb/view?usp=sharing)** - ACMAGRADE
+      - **[5. Next2Tech Certification](https://drive.google.com/file/d/11xQqdgsKDbYOY8JqMEANb2vwOhwi6AG9/view?usp=sharing)** - Next2Tech
 
 
   - title: Achievements
     layout: list
     content:
       - layout: text
-        title: GATE Qualified in Data Science & AI, 2024 & 2025
+        title: 1. GATE Qualified in Data Science & AI, 2024 & 2025
 
       - layout: text
-        title: Selected for Masters from IISER Kolkata, IISER TVM & South Asian University(International University).
+        title: 2. Selected for Masters from IISER Kolkata, IISER TVM & South Asian University(International University).
 
 
   - title: Volunteering & Leadership Roles
     layout: list
     content:
       - layout: text
-        title: Volunteer, PUNECON - IEEE Pune Section International Conference 2024
+        title: 1. Volunteer, PUNECON - IEEE Pune Section International Conference 2024
 
   - title: Languages & Hobbies
     layout: text
