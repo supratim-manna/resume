@@ -113,12 +113,12 @@ version: 2
 
 # Personal info
 name: Supratim Manna
-title:
+titles:
   - Researcher
   - GenAI | LLM | Quantum Computing
 email: supratimmannas7@gmail.com
-# phone: +91
 website: https://github.com/supratim-manna
+
 
 darkmode: true
 
