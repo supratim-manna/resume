@@ -302,17 +302,17 @@ content:
   - title: Achievements
     layout: list
     content:
-      - layout: left
+      - layout: text
         title: GATE Qualified in Data Science & AI, 2024 & 2025
 
-      - layout: left
+      - layout: text
         title: Selected for Masters from IISER Kolkata, IISER TVM & South Asian University(International University).
 
 
   - title: Volunteering & Leadership Roles
     layout: list
     content:
-      - layout: left
+      - layout: text
         title: Volunteer, PUNECON - IEEE Pune Section International Conference 2024
 
   - title: Languages & Hobbies
