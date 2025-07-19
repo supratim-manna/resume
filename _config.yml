@@ -113,7 +113,7 @@ version: 2
 
 # Personal info
 name: Supratim Manna
-title: "Researcher\nGenAI | LLM | Quantum Computing"
+title: GenAI Researcher
 
 
 email: supratimmannas7@gmail.com
@@ -127,17 +127,18 @@ darkmode: true
 # kaggle_username: supratimmanna7
 # huggingface_username: supratimmannas7
 # leetcode_username: SupratimManna
-social:
-  - platform: GitHub
+social_links:
+  - name: GitHub
     url: https://github.com/supratim-manna
-  - platform: LinkedIn
+  - name: LinkedIn
     url: https://linkedin.com/in/supratim-manna-728315293
-  - platform: Kaggle
+  - name: Kaggle
     url: https://www.kaggle.com/supratimmanna7
-  - platform: Hugging Face
+  - name: Hugging Face
     url: https://huggingface.co/supratimannas7
-  - platform: LeetCode
+  - name: LeetCode
     url: https://leetcode.com/SupratimManna
+
 
 
 about_profile_image: images/profile.png
