@@ -259,8 +259,6 @@ content:
         title: Innovate Intern - AI/ML
         sub_title: AICTE Virtual Internship
         caption: July 2024 - November 2024
-        description: |
-          Worked on Deep Learning and NLP projects.
 
   - title: Skills
     layout: text
@@ -274,7 +272,7 @@ content:
       - **Data Science Tools:** Pandas, NumPy, Seaborn, Matplotlib, VS-Code, R-Studio, Google-Colab, ChatGPT, Kaggle, Hugging-Face, Git, Github, Cursor, WixStudio, Pycharm, Ollama, LM-Studio.
 
       ## Soft Skills: 
-      Problem-solving, Good Communicator, Analytical Thinking, Time Management, Adaptability, Creativity, Team Collaboration.
+      Problem-solving, Good Communicator, Analytical Thinking, Creativity, Team Collaboration.
 
 
   - title: Certifications
