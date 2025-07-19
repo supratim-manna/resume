@@ -159,12 +159,12 @@ content:
     layout: list
     content:
       - layout: text
-        title: Isolation Forest-based Anomaly Detection of Vessels using AIS Data
+        title: 1. Isolation Forest-based Anomaly Detection of Vessels using AIS Data
         sub_title: "S. Manna & Dr. B. Ramkrishna"
         caption: ICDMAI 2025 (Accepted & Presented, Jan 2025)
 
       - layout: text
-        title: An ML Approach for Predicting Maritime Traffic
+        title: 2. An ML Approach for Predicting Maritime Traffic
         sub_title: "S. Manna & Dr. B. Ramkrishna"
         caption: 2025
 
@@ -243,6 +243,7 @@ content:
         link_text: GitHub Repository
         description: |
           We have implemented a military aircraft classification system using pretrained deep learning models—ResNet50, VGG19, and VGG16—to compare their performance. Conducted extensive evaluations, where ResNet50 outperformed the others, delivering the best classification accuracy. This study highlights the effectiveness of transfer learning in defense applications, ensuring robust and efficient aircraft recognition.
+      
       - layout: left
         border: weak
         title: AI-Agent using Botpress & LLM
@@ -259,7 +260,7 @@ content:
         sub_title: AICTE Virtual Internship
         caption: July 2024 - November 2024
         description: |
-          Worked on "Deep Learning and NLP" projects, gaining hands-on experience in "Transformer models, GANs, and AI ethics".
+          Worked on Deep Learning and NLP projects.
 
   - title: Skills
     layout: text
@@ -301,7 +302,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: Volunteer, PUNECON - IEEE Pune Section International Conference 2023 & 2024
+        title: Volunteer, PUNECON - IEEE Pune Section International Conference 2024
 
   - title: Languages & Hobbies
     layout: text
