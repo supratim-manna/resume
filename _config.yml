@@ -113,7 +113,8 @@ version: 2
 
 # Personal info
 name: Supratim Manna
-title: Researcher | GenAI | LLM | Quantum Computing
+title: Researcher
+title: GenAI | LLM | Quantum Computing
 email: supratimmannas7@gmail.com
 # phone: +91
 website: https://github.com/supratim-manna
@@ -151,7 +152,7 @@ content:
   - title: Research Interests
     layout: text
     content: |
-        My research interests lie in GenAI and it's applications.
+        Supratim Manna's research interests lie in generative models, including LLMs, GANs, and diffusion models, with applications in data synthesis and augmentation. He is also intrigued by the transformative potential of quantum computing in areas like AI and cryptography. Through continuous learning and hands-on experimentation, he explores these frontier technologies to drive innovation.
 
   - title: Publications
     layout: list
