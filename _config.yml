@@ -122,11 +122,23 @@ website: https://github.com/supratim-manna
 
 darkmode: true
 
-github_username: supratim-manna
-linkedin_username: supratim-manna-728315293
-kaggle_username: supratimmanna7
-huggingface_username: supratimmannas7
-leetcode_username: SupratimManna
+# github_username: supratim-manna
+# linkedin_username: supratim-manna-728315293
+# kaggle_username: supratimmanna7
+# huggingface_username: supratimmannas7
+# leetcode_username: SupratimManna
+social:
+  - platform: GitHub
+    url: https://github.com/supratim-manna
+  - platform: LinkedIn
+    url: https://linkedin.com/in/supratim-manna-728315293
+  - platform: Kaggle
+    url: https://www.kaggle.com/supratimmanna7
+  - platform: Hugging Face
+    url: https://huggingface.co/supratimannas7
+  - platform: LeetCode
+    url: https://leetcode.com/SupratimManna
+
 
 about_profile_image: images/profile.png
 about_content: |
@@ -160,12 +172,12 @@ content:
     content:
       - layout: text
         title: 1. Isolation Forest-based Anomaly Detection of Vessels using AIS Data
-        sub_title: "S. Manna & Dr. B. Ramkrishna"
+        sub_title: "S. Manna, Dr. B. Ramkrishna"
         caption: ICDMAI 2025 (Accepted & Presented, Jan 2025)
 
       - layout: text
         title: 2. An ML Approach for Predicting Maritime Traffic
-        sub_title: "S. Manna & Dr. B. Ramkrishna"
+        sub_title: "S. Manna, Dr. B. Ramkrishna"
         caption: 2025
 
   - title: Projects
