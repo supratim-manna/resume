@@ -8,9 +8,9 @@
 
 # # Personal info
 # name: Supratim Manna
-# title: Data Scientist | ML Researcher
+# title: Researcher | GenAI | LLM | Quantum Computing
 # email: supratimmannas7@gmail.com
-# phone: +91 
+#  
 # website: https://github.com/supratim-manna
 
 # darkmode: false
@@ -22,7 +22,7 @@
 
 # about_profile_image: images/profile.png
 # about_content: |
-#   My research interests lie in LLM, GANs, and Diffusion Models for generative tasks, leveraging my strong mathematical background in probability, optimization, and numerical methods. I have worked with deep learning architectures for anomaly detection and Maritime Traffic Prediction. 
+#   Supratim Manna is deeply fascinated by generative models such as Large Language Models (LLMs), Generative Adversarial Networks (GANs), and diffusion models. These advanced techniques offer powerful applications from generating realistic images to enhancing data augmentation in machine learning. He also has a strong interest in quantum computing, recognizing its potential to revolutionize fields like Cryptography and AI. Through a combination of coursework, self-study, and hands-on projects, Supratim actively explores these cutting-edge domains to stay at the forefront of technological advancement. 
 
 
 # content:
@@ -113,7 +113,7 @@ version: 2
 
 # Personal info
 name: Supratim Manna
-title: Data Scientist | ML Researcher
+title: Researcher | GenAI | LLM | Quantum Computing
 email: supratimmannas7@gmail.com
 # phone: +91
 website: https://github.com/supratim-manna
@@ -128,8 +128,7 @@ leetcode_username: SupratimManna
 
 about_profile_image: images/profile.png
 about_content: |
-  I'm Supratim Manna, and I'm on a thrilling journey as a Data Science student at DIAT, passionately exploring the intricate world of data analysis and machine learning. My educational journey has equipped me with a strong foundation in various data science tools and programming languages, including Python, R, and SQL. I've developed skills in data manipulation, visualization, and machine learning techniques, with a keen interest in generative AI.
-  My research interests lie in LLM, GANs, and Diffusion Models for generative tasks, leveraging my strong mathematical background in probability, optimization, and numerical methods. I have worked with Machine learning architectures for anomaly detection. 
+  Supratim Manna is deeply fascinated by generative models such as Large Language Models (LLMs), Generative Adversarial Networks (GANs), and diffusion models. These advanced techniques offer powerful applications from generating realistic images to enhancing data augmentation in machine learning. He also has a strong interest in quantum computing, recognizing its potential to revolutionize fields like Cryptography and AI. Through a combination of coursework, self-study, and hands-on projects, Supratim actively explores these cutting-edge domains to stay at the forefront of technological advancement. 
 
 content:
   - title: Education
@@ -149,24 +148,10 @@ content:
         description: |
           
 
-      - layout: top-right
-        title: WBCHSE, West Bengal
-        sub_title: Higher Secondary
-        caption: 2020
-        description: |
-          
-
-      - layout: top-right
-        title: WBBSE, West Bengal
-        sub_title: Secondary Education
-        caption: 2018
-        description: |
-          
-
   - title: Research Interests
     layout: text
     content: |
-        My research interests lie in LLM, GANs, and Diffusion Models for generative tasks, leveraging my strong mathematical background in probability, optimization, and numerical methods. I have worked with Machine learning architectures for anomaly detection
+        My research interests lie in GenAI and it's applications.
 
   - title: Publications
     layout: list
@@ -175,6 +160,11 @@ content:
         title: Isolation Forest-based Anomaly Detection of Vessels using AIS Data
         sub_title: "S. Manna & Dr. B. Ramkrishna"
         caption: ICDMAI 2025 (Accepted & Presented, Jan 2025)
+
+        - layout: left
+        title: An ML Approach for Predicting Maritime Traffic
+        sub_title: "S. Manna & Dr. B. Ramkrishna"
+        caption: 
 
   - title: Projects
     layout: list
