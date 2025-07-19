@@ -161,10 +161,10 @@ content:
         sub_title: "S. Manna & Dr. B. Ramkrishna"
         caption: ICDMAI 2025 (Accepted & Presented, Jan 2025)
 
-        - layout: left
+      - layout: left
         title: An ML Approach for Predicting Maritime Traffic
         sub_title: "S. Manna & Dr. B. Ramkrishna"
-        caption: 
+        caption: 2025
 
   - title: Projects
     layout: list
@@ -314,8 +314,8 @@ content:
   - title: Languages & Hobbies
     layout: text
     content: |
-      Languages: English, Hindi  
-      Hobbies: Badminton, Chess, Cricket  
+      Languages: English, Hindi, German  
+      Hobbies: Badminton
 
 footer_show_references: false
 
