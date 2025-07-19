@@ -113,9 +113,8 @@ version: 2
 
 # Personal info
 name: Supratim Manna
-title: |
-  Researcher
-  GenAI | LLM | Quantum Computing
+title: "Researcher\nGenAI | LLM | Quantum Computing"
+
 
 email: supratimmannas7@gmail.com
 website: https://github.com/supratim-manna
