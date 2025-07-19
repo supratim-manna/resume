@@ -113,8 +113,9 @@ version: 2
 
 # Personal info
 name: Supratim Manna
-title: Researcher
-title: GenAI | LLM | Quantum Computing
+titles:
+  - Researcher
+  - GenAI | LLM | Quantum Computing
 email: supratimmannas7@gmail.com
 # phone: +91
 website: https://github.com/supratim-manna
@@ -157,12 +158,12 @@ content:
   - title: Publications
     layout: list
     content:
-      - layout: left
+      - layout: text
         title: Isolation Forest-based Anomaly Detection of Vessels using AIS Data
         sub_title: "S. Manna & Dr. B. Ramkrishna"
         caption: ICDMAI 2025 (Accepted & Presented, Jan 2025)
 
-      - layout: left
+      - layout: text
         title: An ML Approach for Predicting Maritime Traffic
         sub_title: "S. Manna & Dr. B. Ramkrishna"
         caption: 2025
@@ -202,6 +203,7 @@ content:
         link_text: GitHub Repository
         description: |
           This project presents a Movie Recommender System utilizing data from The Movie Database (TMDB) to provide personalized movie suggestions. By integrating datasets containing movie details and credits, we preprocess and extract relevant features such as genres, keywords, cast, and crew. Using a bag-of-words approach with Count Vectorization, we create a similarity matrix based on text data from these features. The system employs cosine similarity to recommend movies similar to a given title, enhancing user experience through tailored suggestions. The results demonstrate the effectiveness of this method in generating relevant recommendations, contributing to advancements in recommendation algorithms in the entertainment industry.
+      
       - layout: left
         border: weak
         title: Face Mask Detection using CNN
@@ -225,6 +227,7 @@ content:
         link_text: GitHub Repository
         description: |
           This project focuses on generating CIFAR-10 small color photographs using Generative Adversarial Networks (GANs). The CIFAR-10 dataset, comprising 60,000 32x32 color images across 10 classes, serves as the training ground for our GAN model. By leveraging the adversarial training process, my aim is to create realistic images that closely resemble the original dataset. The results showcase the GAN's ability to generate diverse and high-quality color photographs, contributing to advancements in image synthesis and demonstrating the potential of GANs in various applications, including data augmentation and creative content generation.
+      
       - layout: left
         border: weak
         title: Image Generation using DDPM
@@ -288,34 +291,22 @@ content:
     layout: list
     content:
       - layout: left
-        title: GATE-Data Science & AI Qualified, 2024
-        # caption: 2024
+        title: GATE Qualified in Data Science & AI, 2024 & 2025
+
       - layout: left
-        title: IIT-JAM Mathematics Qualified, 2023
-        # caption: 2023
-      - layout: left
-        title: IISER Kolkata & IISER TVM M.Sc. Mathematics Entrance Qualified, 2023
-      - layout: left
-        title: Post Matric National Scholarship, 2020
-        # caption: 2020
+        title: Selected for MAsters from IISER Kolkata & IISER TVM
 
 
   - title: Volunteering & Leadership Roles
     layout: list
     content:
       - layout: left
-        title: Volunteer, IEEE ICCST 2023
-      - layout: left
-        title: Volunteer, National Service Scheme (NSS) [2023-2025]
-      - layout: left
-        title: Student Cultural Coordinator, SPANDAN’24 & SPANDAN’25
-      - layout: left
-        title: Organizer, PUNECON - IEEE Pune Section International Conference 2024
+        title: Volunteer, PUNECON - IEEE Pune Section International Conference 2023 & 2024
 
   - title: Languages & Hobbies
     layout: text
     content: |
-      Languages: English, Hindi, German  
+      Languages: English, Hindi, German
       Hobbies: Badminton
 
 footer_show_references: false
