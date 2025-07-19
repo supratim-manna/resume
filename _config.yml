@@ -122,22 +122,22 @@ website: https://github.com/supratim-manna
 
 darkmode: true
 
-# github_username: supratim-manna
-# linkedin_username: supratim-manna-728315293
-# kaggle_username: supratimmanna7
-# huggingface_username: supratimmannas7
-# leetcode_username: SupratimManna
-social_links:
-  - name: GitHub
-    url: https://github.com/supratim-manna
-  - name: LinkedIn
-    url: https://linkedin.com/in/supratim-manna-728315293
-  - name: Kaggle
-    url: https://www.kaggle.com/supratimmanna7
-  - name: Hugging Face
-    url: https://huggingface.co/supratimannas7
-  - name: LeetCode
-    url: https://leetcode.com/SupratimManna
+github_username: supratim-manna
+linkedin_username: supratim-manna-728315293
+kaggle_username: supratimmanna7
+huggingface_username: supratimmannas7
+leetcode_username: SupratimManna
+# social_links:
+#   - name: GitHub
+#     url: https://github.com/supratim-manna
+#   - name: LinkedIn
+#     url: https://linkedin.com/in/supratim-manna-728315293
+#   - name: Kaggle
+#     url: https://www.kaggle.com/supratimmanna7
+#   - name: Hugging Face
+#     url: https://huggingface.co/supratimannas7
+#   - name: LeetCode
+#     url: https://leetcode.com/SupratimManna
 
 
 
@@ -318,8 +318,9 @@ content:
   - title: Languages & Hobbies
     layout: text
     content: |
-      Languages: English, Hindi, German
+      Languages: English, Hindi, German  
       Hobbies: Badminton
+
 
 footer_show_references: false
 
